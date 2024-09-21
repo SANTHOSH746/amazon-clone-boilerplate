@@ -1,0 +1,76 @@
+*{
+    background-color: rgb(41, 39, 39);
+}
+table{
+    color: #fff;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    
+}
+#topbar{
+    padding-right: 3vh;
+    
+}
+.title1{
+    font-size: x-large;
+}
+.title2{
+    position: relative;
+    left: 3vh;
+    bottom: 2vh;
+}
+.all{
+    position: relative;
+    left: -15vh;
+    font-size: 25px;
+    bottom: 1vh;
+    color: black;
+    background-color: white;
+}   
+.searchbar{
+    background-color: #fff;
+    width: 80vh;
+    border-radius: 15px;
+    padding-left: 10vh;
+    height: 1vh;
+    
+    
+    
+    
+    
+}
+.searchimg{
+    background-color: white;
+    position: relative;
+    left: 73.6vh;
+    bottom: 0.3vh;
+    
+}
+#india{
+    
+    
+    position: relative;
+    left: 3vh;
+}
+.topbar{
+    padding-left: 5vh;
+}
+.bar2{
+    background-color: darkblue;
+
+    padding-bottom: 2vh;
+    padding-top: 2vh;
+}
+.tile{
+    background-color: darkblue;
+    color: #fff;
+    padding-left: 2vh;
+    font-size: 30px;
+    
+}
+.table2{
+    color: #fff;
+    background-color: darkblue;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    
+}
+
